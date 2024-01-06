@@ -1,0 +1,5 @@
+{
+    "bad_request_error": "Bad request",
+    "forbidden_error": "Forbidden resource",
+    "internal_server_error": "Ooops something went wrong! Please try again in later"
+}

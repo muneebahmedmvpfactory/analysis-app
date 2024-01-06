@@ -1,0 +1,10 @@
+{
+    "NOT_EMPTY": "{property} ist notwendig. {property} darf nicht leer sein.",
+    "MUST_BE_STRING": "{property} muss ein Text sein.",
+    "FORMAT_INVALID": "Bitte ein gültiges {property} auswählen",
+    "MUST_BE_NUMBER": "{property} muss eine Nummer in einem definierten Rahmen sein.",
+    "MUST_BE_BOOLEAN": "{property} muss Wahr oder Falsch sein.",
+    "SHOULD_BE_ARRAY": "{property} muss ein Array sein.",
+    "MUST_BE_VALID_EMAIL": "{property} muss eine gültige E-Mail Adresse sein.",
+    "MIN_LENGTH": "{property} Länge muss mehr sein als"
+}
