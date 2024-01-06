@@ -1,0 +1,12 @@
+{
+    "NOT_EMPTY": "{property} is required. {property} cannot be empty",
+    "MUST_BE_STRING": "{property} must be string",
+    "FORMAT_INVALID": "{property} format is not valid",
+    "MUST_BE_NUMBER": "{property} must be a number conforming to the specified constraints",
+    "MUST_CONTAIN_ONE_ELEMENT": "{property} must contain at least 1 elements",
+    "MUST_BE_BOOLEAN": "{property} must be a boolean value",
+    "SHOULD_INCLUDE": "Value should be",
+    "SHOULD_BE_ARRAY": "{property} should be an array",
+    "MUST_BE_VALID_EMAIL": "{property} must be a valid email address",
+    "MIN_LENGTH": "{property} length should be more then"
+}

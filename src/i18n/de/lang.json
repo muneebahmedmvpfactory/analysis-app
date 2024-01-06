@@ -1,0 +1,5 @@
+{
+"bad_request_error": "Ungültige Anforderung",
+"internal_server_error": "Ups. Da ist etwas schief gelaufen. Bitte versuche es später nochmal.",
+"forbidden_error": "Verbotene Ressource"
+}
